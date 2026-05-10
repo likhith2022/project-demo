@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { Droplets, HardHat, Briefcase, Zap, ShieldAlert, ChevronRight, Camera, MapPin, UploadCloud, CheckCircle2 } from 'lucide-react';
+import { Droplets, HardHat, Briefcase, Zap, ShieldAlert, ChevronRight, Camera, MapPin, UploadCloud, CheckCircle2, AlertCircle } from 'lucide-react';
 import Link from 'next/link';
 
 export default function RapidIssueReportPage() {

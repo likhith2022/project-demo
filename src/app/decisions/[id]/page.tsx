@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { ShieldCheck, AlertTriangle, Users, MessageSquare, ArrowLeft, Building, ChevronRight, Activity } from 'lucide-react';
+import { ShieldCheck, AlertTriangle, Users, MessageSquare, ArrowLeft, Building, ChevronRight, Activity, CheckCircle2 } from 'lucide-react';
 import Link from 'next/link';
 
 // Mocking the specific decision details (in real app, fetched by ID)

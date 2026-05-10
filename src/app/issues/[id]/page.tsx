@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { 
   AlertTriangle, Clock, Users, ArrowLeft, CheckCircle2, 
-  XCircle, FileText, HardHat, ShieldCheck, Flame, Info
+  XCircle, FileText, HardHat, ShieldCheck, Flame, Info, MessageSquare
 } from 'lucide-react';
 import Link from 'next/link';
 import { PublicIssue } from '@/types/issues';
